@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yowacevo.github.io/sitemap/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/Flh/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/YPp/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/jAf/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/EYh/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/MaC/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/lux/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/nrU/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/dbN/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/esr/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/OIS/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/bQu/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/bNy/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/tlU/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/awt/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/CFX/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/BdY/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/gvJ/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/qMP/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/VDK/sitemap_index.yowacevo
+Sitemap: https://yowacevo.github.io/rOe/sitemap_index.yowacevo
